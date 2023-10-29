@@ -1,0 +1,52 @@
+<!DOCTYPE html> <!-- HTML document declaration -->
+<html>
+<head>
+  <meta charset="UTF-8"> <!-- Sets the character encoding for the page -->
+  <title>Web Page Title</title> <!-- Page title -->
+</head>
+<body>
+  <h1>Heading 1</h1> <!-- Largest heading -->
+  <h2>Heading 2</h2> <!-- Slightly smaller heading -->
+  <h3>Heading 3</h3> <!-- Even smaller heading -->
+  <p>Paragraph text</p> <!-- Paragraph of text -->
+  <a href="https://www.example.com">Link text</a> <!-- Hyperlink (link) -->
+  <img src="image.jpg" alt="Image description"> <!-- Image display -->
+  <ul>
+    <li>Item 1</li> <!-- Unordered list item -->
+    <li>Item 2</li>
+  </ul>
+  <ol>
+    <li>Item 1</li> <!-- Ordered list item -->
+    <li>Item 2</li>
+  </ol>
+  <em>Emphasized text</em> <!-- Emphasizes text -->
+  <strong>Bold text</strong> <!-- Makes text bold -->
+  <br> <!-- Line break -->
+  <hr> <!-- Horizontal line -->
+  <input type="text" placeholder="Text input"> <!-- Text input field -->
+  <button type="submit">Submit</button> <!-- Submit button -->
+  <form>
+    <label for="name">Name:</label> <!-- Form label -->
+    <input type="text" id="name"> <!-- Form text input -->
+  </form>
+  <div>Content section</div> <!-- Groups content together -->
+  <span>Text portion</span> <!-- Groups text content -->
+  <table>
+    <tr>
+      <th>Header 1</th> <!-- Table header -->
+      <th>Header 2</th>
+    </tr>
+    <tr>
+      <td>Data 1</td> <!-- Table cell (data) -->
+      <td>Data 2</td>
+    </tr>
+  </table>
+  <iframe src="https://www.example.com">Embedded content</iframe> <!-- Embeds content -->
+  <audio controls>
+    <source src="audio.mp3" type="audio/mpeg"> <!-- Audio file playback control -->
+  </audio>
+  <video controls width="320" height="240">
+    <source src="video.mp4" type="video/mp4"> <!-- Video playback control -->
+  </video>
+</body>
+</html>
